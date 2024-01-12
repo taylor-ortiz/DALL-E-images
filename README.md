@@ -1,4 +1,4 @@
-# DALLE-images
+# DALL-E-images
 
 ![vangogh](https://github.com/taylor-ortiz/DALLE-images/assets/20494753/52f6d6f7-a29a-4a2b-8eef-5bf4ed2a5ac6)
 ![popsicle2](https://github.com/taylor-ortiz/DALLE-images/assets/20494753/d7ef7a0c-86a4-4394-8adb-053fe256ac90)
